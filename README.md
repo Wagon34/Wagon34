@@ -1,16 +1,18 @@
-## Hi there 👋
+# Cześć, jestem Patryk 👋
 
-<!--
-**Wagon34/Wagon34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Początkujący developer, który celuje w **frontend**. Tworzę nowoczesne strony internetowe dla klientów z pomocą narzędzi AI, studiuję informatykę i systematycznie uczę się programowania od podstaw. Szukam stażu lub pierwszej pracy w IT.
 
-Here are some ideas to get you started:
+## 🛠️ Technologie i narzędzia
+**Wdrażanie:** Vercel, GitHub
+**Praca z AI:** budowanie stron z użyciem Claude
+**Uczę się:** Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Wybrane projekty
+- **[Nox Studio](https://nox.studio)** – moja strona portfolio i agencji web designu
+- **[Plandeki Lusiek](https://plandekilusiek.pl)** – strona firmy z Zamościa, wykonana na zlecenie
+
+## 🎓 Edukacja
+Informatyka I stopnia, WSPA
+
+## 📫 Kontakt
+patrykwaga8@gmail.com
