@@ -1,15 +1,16 @@
 # Cześć, jestem Patryk 👋
 
-Początkujący developer, który celuje w **frontend**. Tworzę nowoczesne strony internetowe dla klientów z pomocą narzędzi AI, studiuję informatykę i systematycznie uczę się programowania od podstaw. Szukam stażu lub pierwszej pracy w IT.
+Początkujący w IT, student informatyki. Tworzę strony internetowe dla małych firm, a obok systematycznie uczę się programowania od podstaw. Szukam **stażu lub pierwszej pracy w IT**.
+
+## 🌐 Portfolio
+**[patryk-portfolio-wagons-projects-1bc58fae.vercel.app](https://patryk-portfolio-wagons-projects-1bc58fae.vercel.app)**
+
+## 📌 Realizacje
+- **[Plandeki Lusiek](https://plandekilusiek.pl)**: przebudowa strony firmy spod Zamościa na czytelny serwis z podstronami (główna, oferta, galeria, kontakt)
 
 ## 🛠️ Technologie i narzędzia
-**Wdrażanie:** Vercel, GitHub
-**Praca z AI:** budowanie stron z użyciem Claude
-**Uczę się:** Python
-
-## 📌 Wybrane projekty
-- **[Nox Studio](https://nox.studio)** – moja strona portfolio i agencji web designu
-- **[Plandeki Lusiek](https://plandekilusiek.pl)** – strona firmy z Zamościa, wykonana na zlecenie
+**Na co dzień:** GitHub, Vercel, praca z narzędziami AI przy tworzeniu stron
+**Uczę się:** HTML, CSS, JavaScript, Python
 
 ## 🎓 Edukacja
 Informatyka I stopnia, WSPA
